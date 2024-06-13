@@ -1,0 +1,39 @@
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\bin\Debug\Lab7Task.exe.config
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\bin\Debug\Lab7Task.exe
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\bin\Debug\Lab7Task.pdb
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.AboutBox1.resources
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Form1.resources
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Form2.resources
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.exe
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.pdb
+C:\Users\Hp\OneDrive\Documents\visual studio project\secound semeter\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Form3.resources
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\bin\Debug\Lab7Task.exe.config
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\bin\Debug\Lab7Task.exe
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\bin\Debug\Lab7Task.pdb
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.AssemblyReference.cache
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.AboutBox1.resources
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Form1.resources
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Form2.resources
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Form3.resources
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.Properties.Resources.resources
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.GenerateResource.cache
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.CoreCompileInputs.cache
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.exe
+C:\Users\CEM\Downloads\Lab7Task\Lab7Task\Lab7Task\obj\Debug\Lab7Task.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\bin\Debug\Lab7Task.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\bin\Debug\Lab7Task.exe
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\bin\Debug\Lab7Task.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.AboutBox1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.Form1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.Form2.resources
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.Form3.resources
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.Properties.Resources.resources
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.csproj.GenerateResource.cache
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.exe
+C:\Users\Nasim Mulladzhanov\Desktop\ALL\T7_68860_Nasimjon_Mullojonov\Lab7Task\obj\Debug\Lab7Task.pdb
